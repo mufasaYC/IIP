@@ -1,0 +1,6 @@
+framework module Pods_IIP {
+  umbrella header "Pods-IIP-umbrella.h"
+
+  export *
+  module * { export * }
+}
